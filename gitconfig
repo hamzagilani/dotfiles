@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hamzashah_g@hotmail.com
+	name = Hamza Shah Gilani
